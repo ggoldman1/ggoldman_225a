@@ -1,4 +1,4 @@
-# ggoldman_225a
+# Grant Goldman
  
 This is my repo for BMS 225A - Data Science. My work is organized as follows:
 
